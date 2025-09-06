@@ -1,4 +1,6 @@
-# Team Details
+# TechTetra
+
+## 👥 Team Details
 
 ### 👨‍💻 Team Leader
 - **Name:** Rishwik Mishra  
